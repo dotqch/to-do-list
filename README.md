@@ -9,7 +9,7 @@
 
 ## Description
 
-todolist is using Node.js, Express, body-parser and EJS (Embedded JavaScript). User can add and remove tasks from two list, day task list and work task list.
+todolist is built using Node.js, Express, body-parser and EJS (Embedded JavaScript). User can add and remove tasks from two list, day task list and work task list.
 
 ## Features
 
