@@ -38,8 +38,8 @@ npm install
 
 ## Contact Information
 
-Github: https://github.com/dotqch
-Linkedin: https://www.linkedin.com/in/quekchinhao
+- Github: https://github.com/dotqch
+- Linkedin: https://www.linkedin.com/in/quekchinhao
 
 ## To add to project
 1. MongoDB
