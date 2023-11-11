@@ -27,7 +27,7 @@ todolist is built using Node.js, Express, body-parser and EJS (Embedded JavaScri
 
 ```bash
 # Clone the repository
-git clone https://github.com/dotqch/todolist.git
+git clone https://github.com/dotqch/to-do-list.git
 
 # Navigate to the project directory
 cd to project directory
